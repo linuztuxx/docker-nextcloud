@@ -1,4 +1,4 @@
- Use the official Nextcloud image
+# Use the official Nextcloud image
 FROM nextcloud:latest
 
 # Copy the custom Apache configuration file to change the port to 7860
